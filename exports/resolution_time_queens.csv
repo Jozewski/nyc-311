@@ -1,0 +1,12 @@
+borough,agency,agency_name,avg_hours,total_resolved
+QUEENS,TLC,Taxi and Limousine Commission,487.7,170
+QUEENS,DSNY,Department of Sanitation,417,421
+QUEENS,DCA,Department of Consumer Affairs,408.9,154
+QUEENS,DEP,Department of Environmental Protection,400.3,377
+QUEENS,NYPD,New York City Police Department,397.9,618
+QUEENS,DPR,Department of Parks and Recreation,360.3,184
+QUEENS,DOT,Department of Transportation,357.2,337
+QUEENS,DOB,Department of Buildings,351.3,224
+QUEENS,DOHMH,Department of Health and Mental Hygiene,346.3,296
+QUEENS,HPD,Department of Housing Preservation and Development,344.7,821
+QUEENS,FDNY,Fire Department of New York,301.8,151

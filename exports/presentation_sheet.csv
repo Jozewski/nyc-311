@@ -1,0 +1,41 @@
+section,order,metric,value,detail,borough,source
+Executive Summary,1,Total 311 Requests,25000,2023 sample size,All NYC,summary
+Executive Summary,2,Top Complaint Type,Consumer Complaint,Count: 1042,All NYC,summary
+Executive Summary,3,Fastest Agency,Fire Department of New York,Avg resolution: 357.1 hours,All NYC,summary
+Executive Summary,4,Slowest Agency,Taxi and Limousine Commission,Avg resolution: 411.1 hours,All NYC,summary
+Executive Summary,5,Boroughs Tracked,5,Coverage across all major boroughs,All NYC,summary
+Executive Summary,6,Data Date Range,01/01/2023 01:02:08 PM to 12/28/2023 12:58:57 AM,,All NYC,summary
+Borough Flare-ups,7,Top Complaint in BROOKLYN,Consumer Complaint,Volume: 350,BROOKLYN,borough_flareups
+Borough Flare-ups,8,Highest Borough Flare-up Overall,Consumer Complaint,BROOKLYN (350),BROOKLYN,borough_flareups
+Borough Flare-ups,9,Top Complaint in MANHATTAN,Noise - Residential,Volume: 252,MANHATTAN,borough_flareups
+Borough Flare-ups,10,Top Complaint in QUEENS,Consumer Complaint,Volume: 222,QUEENS,borough_flareups
+Borough Flare-ups,11,Top Complaint in BRONX,Consumer Complaint,Volume: 190,BRONX,borough_flareups
+Borough Flare-ups,12,Top Complaint in STATEN ISLAND,Consumer Complaint,Volume: 61,STATEN ISLAND,borough_flareups
+Cross-Borough Comparison,13,Strongest Common Issue in BRONX,Consumer Complaint,Count: 190,BRONX,borough_comparison_top_8
+Cross-Borough Comparison,14,Strongest Common Issue in BROOKLYN,Consumer Complaint,Count: 350,BROOKLYN,borough_comparison_top_8
+Cross-Borough Comparison,15,Strongest Common Issue in MANHATTAN,Consumer Complaint,Count: 219,MANHATTAN,borough_comparison_top_8
+Cross-Borough Comparison,16,Strongest Common Issue in QUEENS,Consumer Complaint,Count: 222,QUEENS,borough_comparison_top_8
+Cross-Borough Comparison,17,Strongest Common Issue in STATEN ISLAND,Consumer Complaint,Count: 61,STATEN ISLAND,borough_comparison_top_8
+Resolution Time,18,Slowest Agency (Overall),Taxi and Limousine Commission,Avg hours: 411.1; Resolved: 752,All NYC,resolution_time_all
+Resolution Time,19,Agency Resolution Benchmark 2,Department of Consumer Affairs,Avg hours: 409.4; Resolved: 719,All NYC,resolution_time_all
+Resolution Time,20,Agency Resolution Benchmark 3,Department of Sanitation,Avg hours: 398; Resolved: 2039,All NYC,resolution_time_all
+Resolution Time,21,Agency Resolution Benchmark 4,New York City Police Department,Avg hours: 391.9; Resolved: 3093,All NYC,resolution_time_all
+Resolution Time,22,Agency Resolution Benchmark 5,Department of Parks and Recreation,Avg hours: 386.4; Resolved: 863,All NYC,resolution_time_all
+Resolution Time,23,Agency Resolution Benchmark 6,Department of Buildings,Avg hours: 386.2; Resolved: 1013,All NYC,resolution_time_all
+Resolution Time,24,Agency Resolution Benchmark 7,Department of Transportation,Avg hours: 377.7; Resolved: 1436,All NYC,resolution_time_all
+Resolution Time,25,Agency Resolution Benchmark 8,Department of Health and Mental Hygiene,Avg hours: 375.5; Resolved: 1289,All NYC,resolution_time_all
+Resolution Time,26,Agency Resolution Benchmark 9,Department of Environmental Protection,Avg hours: 371.7; Resolved: 1809,All NYC,resolution_time_all
+Resolution Time,27,Agency Resolution Benchmark 10,Department of Housing Preservation and Development,Avg hours: 369.2; Resolved: 3778,All NYC,resolution_time_all
+Resolution Time,28,Fastest Agency (Overall),Fire Department of New York,Avg hours: 357.1; Resolved: 678,All NYC,resolution_time_all
+Seasonality,29,Consumer Complaint in Jan,86,Citywide monthly total,All NYC,seasonal_trends
+Seasonality,30,Consumer Complaint in Feb,85,Citywide monthly total,All NYC,seasonal_trends
+Seasonality,31,Consumer Complaint in Mar,74,Citywide monthly total,All NYC,seasonal_trends
+Seasonality,32,Consumer Complaint in Apr,96,Citywide monthly total,All NYC,seasonal_trends
+Seasonality,33,Consumer Complaint in May,82,Citywide monthly total,All NYC,seasonal_trends
+Seasonality,34,Consumer Complaint in Jun,85,Citywide monthly total,All NYC,seasonal_trends
+Seasonality,35,Consumer Complaint in Jul,86,Citywide monthly total,All NYC,seasonal_trends
+Seasonality,36,Consumer Complaint in Aug,85,Citywide monthly total,All NYC,seasonal_trends
+Seasonality,37,Consumer Complaint in Sep,93,Citywide monthly total,All NYC,seasonal_trends
+Seasonality,38,Consumer Complaint in Oct,92,Citywide monthly total,All NYC,seasonal_trends
+Seasonality,39,Consumer Complaint in Nov,94,Citywide monthly total,All NYC,seasonal_trends
+Seasonality,40,Consumer Complaint in Dec,84,Citywide monthly total,All NYC,seasonal_trends

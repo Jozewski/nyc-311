@@ -1,0 +1,12 @@
+borough,agency,agency_name,avg_hours,total_resolved
+STATEN ISLAND,NYPD,New York City Police Department,433.3,186
+STATEN ISLAND,FDNY,Fire Department of New York,432.4,42
+STATEN ISLAND,DEP,Department of Environmental Protection,423.2,103
+STATEN ISLAND,DOB,Department of Buildings,419.6,53
+STATEN ISLAND,DPR,Department of Parks and Recreation,395.8,52
+STATEN ISLAND,DCA,Department of Consumer Affairs,379.1,44
+STATEN ISLAND,HPD,Department of Housing Preservation and Development,376.8,193
+STATEN ISLAND,DOT,Department of Transportation,373.8,99
+STATEN ISLAND,DSNY,Department of Sanitation,363.4,103
+STATEN ISLAND,DOHMH,Department of Health and Mental Hygiene,315.6,79
+STATEN ISLAND,TLC,Taxi and Limousine Commission,242,47

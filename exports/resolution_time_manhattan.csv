@@ -1,0 +1,12 @@
+borough,agency,agency_name,avg_hours,total_resolved
+MANHATTAN,DCA,Department of Consumer Affairs,434.3,153
+MANHATTAN,DPR,Department of Parks and Recreation,423.4,184
+MANHATTAN,NYPD,New York City Police Department,417.3,772
+MANHATTAN,FDNY,Fire Department of New York,403.5,146
+MANHATTAN,DSNY,Department of Sanitation,398,452
+MANHATTAN,DOHMH,Department of Health and Mental Hygiene,379,276
+MANHATTAN,DOB,Department of Buildings,375,238
+MANHATTAN,DOT,Department of Transportation,361.8,310
+MANHATTAN,DEP,Department of Environmental Protection,357.9,377
+MANHATTAN,HPD,Department of Housing Preservation and Development,350.7,861
+MANHATTAN,TLC,Taxi and Limousine Commission,331.9,170

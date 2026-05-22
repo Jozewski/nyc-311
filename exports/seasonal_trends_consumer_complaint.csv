@@ -1,0 +1,61 @@
+complaint_type,month,borough,total
+Consumer Complaint,1,BRONX,21
+Consumer Complaint,1,BROOKLYN,27
+Consumer Complaint,1,MANHATTAN,11
+Consumer Complaint,1,QUEENS,22
+Consumer Complaint,1,STATEN ISLAND,5
+Consumer Complaint,2,BRONX,21
+Consumer Complaint,2,BROOKLYN,31
+Consumer Complaint,2,MANHATTAN,16
+Consumer Complaint,2,QUEENS,13
+Consumer Complaint,2,STATEN ISLAND,4
+Consumer Complaint,3,BRONX,16
+Consumer Complaint,3,BROOKLYN,26
+Consumer Complaint,3,MANHATTAN,14
+Consumer Complaint,3,QUEENS,14
+Consumer Complaint,3,STATEN ISLAND,4
+Consumer Complaint,4,BRONX,11
+Consumer Complaint,4,BROOKLYN,32
+Consumer Complaint,4,MANHATTAN,26
+Consumer Complaint,4,QUEENS,19
+Consumer Complaint,4,STATEN ISLAND,8
+Consumer Complaint,5,BRONX,15
+Consumer Complaint,5,BROOKLYN,33
+Consumer Complaint,5,MANHATTAN,14
+Consumer Complaint,5,QUEENS,17
+Consumer Complaint,5,STATEN ISLAND,3
+Consumer Complaint,6,BRONX,14
+Consumer Complaint,6,BROOKLYN,30
+Consumer Complaint,6,MANHATTAN,20
+Consumer Complaint,6,QUEENS,16
+Consumer Complaint,6,STATEN ISLAND,5
+Consumer Complaint,7,BRONX,17
+Consumer Complaint,7,BROOKLYN,30
+Consumer Complaint,7,MANHATTAN,17
+Consumer Complaint,7,QUEENS,19
+Consumer Complaint,7,STATEN ISLAND,3
+Consumer Complaint,8,BRONX,13
+Consumer Complaint,8,BROOKLYN,28
+Consumer Complaint,8,MANHATTAN,28
+Consumer Complaint,8,QUEENS,15
+Consumer Complaint,8,STATEN ISLAND,1
+Consumer Complaint,9,BRONX,23
+Consumer Complaint,9,BROOKLYN,28
+Consumer Complaint,9,MANHATTAN,13
+Consumer Complaint,9,QUEENS,23
+Consumer Complaint,9,STATEN ISLAND,6
+Consumer Complaint,10,BRONX,11
+Consumer Complaint,10,BROOKLYN,27
+Consumer Complaint,10,MANHATTAN,21
+Consumer Complaint,10,QUEENS,24
+Consumer Complaint,10,STATEN ISLAND,9
+Consumer Complaint,11,BRONX,16
+Consumer Complaint,11,BROOKLYN,30
+Consumer Complaint,11,MANHATTAN,14
+Consumer Complaint,11,QUEENS,27
+Consumer Complaint,11,STATEN ISLAND,7
+Consumer Complaint,12,BRONX,12
+Consumer Complaint,12,BROOKLYN,28
+Consumer Complaint,12,MANHATTAN,25
+Consumer Complaint,12,QUEENS,13
+Consumer Complaint,12,STATEN ISLAND,6

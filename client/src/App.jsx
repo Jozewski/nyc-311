@@ -4,6 +4,7 @@ import BoroughFlareups   from './components/BoroughFlareups';
 import SeasonalTrends    from './components/SeasonalTrends';
 import BoroughComparison from './components/BoroughComparison';
 import ResolutionTime    from './components/ResolutionTime';
+import ExportCsvDropdown from './components/ExportCsvDropdown';
 
 const TABS = [
   { id: 'dashboard',  label: 'Overview',          icon: '🏙️', component: Dashboard },
@@ -21,10 +22,16 @@ export default function App() {
     <div className="min-h-screen bg-slate-900 text-slate-100">
       <header className="border-b border-slate-700 bg-slate-900/80 backdrop-blur sticky top-0 z-10">
         <div className="max-w-6xl mx-auto px-4 py-4">
-          <h1 className="text-lg font-bold text-white tracking-tight">
-            🗽 NYC 311 Vibe Metrics
-          </h1>
-          <p className="text-slate-400 text-xs">Borough Flare-ups — 2023 Service Requests</p>
+          <div className="flex flex-col gap-3 lg:flex-row lg:items-center lg:justify-between">
+            <div>
+              <h1 className="text-lg font-bold text-white tracking-tight">
+                🗽 NYC 311 Vibe Metrics
+              </h1>
+              <p className="text-slate-400 text-xs">Borough Flare-ups — 2023 Service Requests</p>
+            </div>
+
+            <ExportCsvDropdown />
+          </div>
         </div>
       </header>
 

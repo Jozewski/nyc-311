@@ -1,0 +1,12 @@
+borough,agency,agency_name,avg_hours,total_resolved
+BRONX,TLC,Taxi and Limousine Commission,413.2,149
+BRONX,DSNY,Department of Sanitation,407.7,464
+BRONX,HPD,Department of Housing Preservation and Development,406.7,743
+BRONX,DOB,Department of Buildings,389.5,199
+BRONX,NYPD,New York City Police Department,384.2,580
+BRONX,DOT,Department of Transportation,381.5,274
+BRONX,DOHMH,Department of Health and Mental Hygiene,379.9,240
+BRONX,DEP,Department of Environmental Protection,373.5,391
+BRONX,FDNY,Fire Department of New York,357.8,153
+BRONX,DCA,Department of Consumer Affairs,333.8,129
+BRONX,DPR,Department of Parks and Recreation,320.9,167

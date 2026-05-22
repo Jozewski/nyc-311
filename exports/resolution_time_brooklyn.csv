@@ -1,0 +1,12 @@
+borough,agency,agency_name,avg_hours,total_resolved
+BROOKLYN,TLC,Taxi and Limousine Commission,448.6,216
+BROOKLYN,DCA,Department of Consumer Affairs,440.1,239
+BROOKLYN,DPR,Department of Parks and Recreation,417,276
+BROOKLYN,DOB,Department of Buildings,413.3,299
+BROOKLYN,DOT,Department of Transportation,404.8,416
+BROOKLYN,DOHMH,Department of Health and Mental Hygiene,404,398
+BROOKLYN,DSNY,Department of Sanitation,383,599
+BROOKLYN,HPD,Department of Housing Preservation and Development,374.9,1160
+BROOKLYN,NYPD,New York City Police Department,363.5,937
+BROOKLYN,DEP,Department of Environmental Protection,351,561
+BROOKLYN,FDNY,Fire Department of New York,348.1,186

@@ -1,0 +1,12 @@
+borough,agency,agency_name,avg_hours,total_resolved
+All,TLC,Taxi and Limousine Commission,411.1,752
+All,DCA,Department of Consumer Affairs,409.4,719
+All,DSNY,Department of Sanitation,398,2039
+All,NYPD,New York City Police Department,391.9,3093
+All,DPR,Department of Parks and Recreation,386.4,863
+All,DOB,Department of Buildings,386.2,1013
+All,DOT,Department of Transportation,377.7,1436
+All,DOHMH,Department of Health and Mental Hygiene,375.5,1289
+All,DEP,Department of Environmental Protection,371.7,1809
+All,HPD,Department of Housing Preservation and Development,369.2,3778
+All,FDNY,Fire Department of New York,357.1,678
